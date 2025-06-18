@@ -1,0 +1,194 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Australiano"
+      },
+      {
+        "id": 6,
+        "tipo": "Brioche"
+      },
+      {
+        "id": 7,
+        "tipo": "Ciabatta"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Frango Grelhado"
+      },
+      {
+        "id": 6,
+        "tipo": "Costela"
+      },
+      {
+        "id": 7,
+        "tipo": "Linguiça Artesanal"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      },
+      {
+        "id": 7,
+        "tipo": "Alface"
+      },
+      {
+        "id": 8,
+        "tipo": "Molho Barbecue"
+      },
+      {
+        "id": 9,
+        "tipo": "Molho Ranch"
+      },
+      {
+        "id": 10,
+        "tipo": "Ovo"
+      },
+      {
+        "id": 11,
+        "tipo": "Maionese Verde"
+      },
+      {
+        "id": 12,
+        "tipo": "Picles"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "1069",
+      "nome": "VITÓRIA WALTER GONÇALVES",
+      "pao": "Italiano Branco",
+      "carne": "Frango Grelhado",
+      "opcionais": [
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "41e0",
+      "nome": "gedg",
+      "pao": "Italiano Branco",
+      "carne": "Maminha",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "eae4",
+      "nome": "VITÓRIA WALTER GONÇALVES",
+      "pao": "Integral",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "39fa",
+      "nome": "Marcio",
+      "pao": "Ciabatta",
+      "carne": "Maminha",
+      "opcionais": [
+        "Maionese Verde",
+        "Cheddar",
+        "Tomate",
+        "Molho Barbecue"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "d032",
+      "nome": "Augusto",
+      "pao": "Integral",
+      "carne": "Picanha",
+      "opcionais": [
+        "Bacon",
+        "Salame",
+        "Tomate",
+        "Cebola roxa",
+        "Ovo",
+        "Alface"
+      ],
+      "status": "Finalizado"
+    }
+  ]
+}
